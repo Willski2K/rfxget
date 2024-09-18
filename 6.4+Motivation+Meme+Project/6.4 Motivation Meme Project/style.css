@@ -11,3 +11,10 @@ div {
     margin-left: auto;
     width: 35%;
 }
+p{
+    text-align: center;
+    color: white;
+}
+img {
+    border: 10px solid blue;
+}
